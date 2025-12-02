@@ -1,6 +1,6 @@
 # Cosmic Pass: Advanced Password Strength Checker & Generator
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge&logo=rocket)](https://doodax.com) 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge&logo=rocket)](https://doodax.com/tools/cosmic-pass-password-strength-generator/index.html) 
 
 ![Cosmic Pass Banner](https://cosmicpass.example.com/og-image.png) 
 
